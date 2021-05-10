@@ -14,14 +14,22 @@ h2{
 }
 
 .contenido{
+    color: white;
     background-color: rgb(3, 52, 61);
     flex: 1;
 }
 
 .nombre{
     color: white;
+    margin-top: 1%;
 }
 
 .nom{
     color:yellow;
+}
+button{
+    margin-top: 2%;
+}
+.buscar{
+    margin-left: 1%;
 }
